@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋🏽<br><br>I'm Amal, a former engineer turned product manager.<br><br>I'm currently working at Ordergroove as a Senior Product Manager on the Platform team. <br><br>Before Ordergroove, I built hardware products, software, and my own company.<br><br>You can learn more about some of my work at the following sites:<br>ordergroove.com<br>toughmuder.com<br>intelehealth.org
+Hi! 👋🏽<br><br>I'm Amal, a former engineer turned product manager.<br><br>I'm currently working at Ordergroove as a Senior Product Manager on the Platform team. <br><br>Before Ordergroove, I built hardware products, software, and my own company.<br><br>You can learn more about some of my work at the following sites:<br>[Ordergroove](ordergroove.com)<br>[Tough Mudder](toughmuder.com)<br>[Intelehealth](intelehealth.org)
 
 
 ## 🌐 Socials:
