@@ -14,6 +14,3 @@ Hi! 👋🏽<br><br>I'm Amal, a former engineer turned product manager.<br><br>I
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amalafrozalam&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=amalafrozalam&icon=6&color=4)](https://visitcount.itsvg.in)
